@@ -29,6 +29,14 @@
 - `role`: str
 - `is_allowed`: bool
 
+### resumes
+
+- `id`: UUID
+- `user_id`: int (id пользователя)
+- `about_me`: str
+- `job_time`: str
+- `salary`: int
+
 ---
 
 ## ⚙️ Развёртывание
